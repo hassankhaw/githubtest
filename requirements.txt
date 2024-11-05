@@ -1,0 +1,10 @@
+chromadb
+pypdf
+langchain_chroma
+langchain_community
+langchain_text_splitters
+sentence-transformers
+openai
+flask
+langchain_huggingface
+ollama
